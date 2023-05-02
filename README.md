@@ -9,23 +9,24 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 ## Algorithm
 
 ### Step1:
-<br>
+Improt the packages.
 
 ### Step2:
-<br>
+convert to grayscale.
 
 ### Step3:
-<br>
+Use global thresholding techniques.
 
 ### Step4:
-<br>
+Use adaptive thresholding and otsu's method.
 
 ### Step5:
-<br>
-
+Display the results using loop.
 ## Program
 
 ```python
+Developed by: J.Archana priya
+Reg.no : 212221230007
 # Load the necessary packages
 
 import numpy as np
